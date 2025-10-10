@@ -143,3 +143,4 @@
 34. You can also do model training on /training
 checking ci-cd working
 check it
+last test
