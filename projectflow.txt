@@ -144,4 +144,4 @@
 checking ci-cd working
 check it
 last test
-galti se seekho
+galti se seekhos
